@@ -6,14 +6,13 @@ replace github.com/dgrijalva/jwt-go => github.com/golang-jwt/jwt/v4 v4.2.0
 
 require (
 	github.com/Microsoft/hcsshim v0.9.2
-	github.com/aws/aws-sdk-go v1.15.11
+	github.com/aws/aws-sdk-go v1.34.0
 	github.com/bronze1man/goStrongswanVici v0.0.0-20201105010758-936f38b697fd
 	github.com/containernetworking/plugins v0.9.1
 	github.com/coreos/go-iptables v0.5.0
 	github.com/coreos/go-systemd v0.0.0-20190321100706-95778dfbb74e
 	github.com/coreos/pkg v0.0.0-20180928190104-399ea9e2e55f
 	github.com/denverdino/aliyungo v0.0.0-20190125010748-a747050bb1ba
-	github.com/go-ini/ini v1.28.1 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
 	github.com/google/btree v1.0.1 // indirect
 	github.com/grpc-ecosystem/go-grpc-middleware v1.3.0 // indirect
@@ -91,7 +90,7 @@ require (
 	github.com/googleapis/gnostic v0.4.1 // indirect
 	github.com/hashicorp/golang-lru v0.5.1 // indirect
 	github.com/imdario/mergo v0.3.12 // indirect
-	github.com/jmespath/go-jmespath v0.0.0-20160803190731-bd40a432e4c7 // indirect
+	github.com/jmespath/go-jmespath v0.3.0 // indirect
 	github.com/josharian/native v0.0.0-20200817173448-b6b71def0850 // indirect
 	github.com/json-iterator/go v1.1.11 // indirect
 	github.com/mdlayher/genetlink v1.1.0 // indirect
